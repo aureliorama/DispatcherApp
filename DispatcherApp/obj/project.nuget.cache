@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmiUrn/EElE4QqFReOcDCL5lV5iHPLjrnnll9g5MAF4eRaM/o0NANzNF80Iebw+13KUVFxe2EcLFAKEuSqynnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AUREL\\source\\repos\\DispatcherApp\\DispatcherApp\\DispatcherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AUREL\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
